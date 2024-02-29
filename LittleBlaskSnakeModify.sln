@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LittleBlackSnakeModifyBackend", "LittleBlackSnakeModifyBackend\LittleBlackSnakeModifyBackend.csproj", "{917A9642-82EB-4843-B47A-C5E0D36231EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{917A9642-82EB-4843-B47A-C5E0D36231EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{917A9642-82EB-4843-B47A-C5E0D36231EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{917A9642-82EB-4843-B47A-C5E0D36231EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{917A9642-82EB-4843-B47A-C5E0D36231EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1261112B-5F9A-4540-BD75-6E2E371466E4}
+	EndGlobalSection
+EndGlobal
